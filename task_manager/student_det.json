@@ -1,0 +1,36 @@
+{"school": "Moringa School",
+"year": 2026,
+"course":"DataScience",
+"Students": [
+{
+
+    "st_id": 101,
+    "name": "Francis Wairagu",
+    "age": 34,
+    "email": "Francis.wairagu@students.moringaschool.com",
+    "gender":"male",
+    "TM":"TM 1",
+    "adress":{
+        "code": 00100,
+        "city":"Nairobi",
+        "county": "Nairobi",
+        "box_no": 2001
+        },
+        "phone": 0700100011,
+        "module":1,
+        "unite": {
+            "unit_1": "variables",
+            "unit_2": "datatypes",
+            "unit_3": "controlflows",
+            "unit_4": "loops",
+            "unit_5": "functions"
+
+        },
+        "guardian":{
+            "name": "wairagu sr",
+            "phone": 0769000099,
+            "relationship":"Father"
+
+        },
+
+        }]}

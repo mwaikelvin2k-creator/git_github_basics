@@ -30,7 +30,3 @@ def add(a,b):
     return a*b
 number = add(2,100)
 print(number)
-
-
-
-
