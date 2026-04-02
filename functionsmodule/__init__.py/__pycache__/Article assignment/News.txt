@@ -1,0 +1,3 @@
+
+Imagine you're a junior tech professional working at a tech startup that specializes in Natural Language Processing (NLP) solutions. Your team is working on a project to analyze the content of news articles to extract valuable insights. As part of this project, you've been tasked with developing a Python program that can perform various text analysis tasks on a given news article. These tasks include counting the number of times a specific word is used, identifying the most common word, calculating the average length of words, counting the number of paragraphs, and counting the number of sentences in the text.
+
